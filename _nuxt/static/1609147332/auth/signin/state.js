@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1609147332",layout:"auth",error:null,state:{alert:{},errors:{errors:[]},snackbar:{snackbar:false,color:"info",text:"",timeout:2000}},serverRendered:true,routePath:"\u002Fauth\u002Fsignin",config:{},apollo:{defaultClient:Object.create(null)}};

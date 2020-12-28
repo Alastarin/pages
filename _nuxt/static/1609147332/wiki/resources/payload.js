@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/wiki/resources", {data:[],fetch:[],mutations:[]});
