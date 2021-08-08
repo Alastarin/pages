@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/wiki/weapons", {data:[],fetch:[],mutations:[]});

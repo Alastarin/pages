@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/shelter", {data:[],fetch:[],mutations:[]});
