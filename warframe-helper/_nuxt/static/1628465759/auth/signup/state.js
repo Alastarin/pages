@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fwarframe-helper\u002F_nuxt\u002Fstatic\u002F1628465759",layout:"auth",error:a,serverRendered:true,routePath:"\u002Fauth\u002Fsignup",config:{_app:{basePath:"\u002Fwarframe-helper\u002F",assetsPath:"\u002Fwarframe-helper\u002F_nuxt\u002F",cdnURL:a}},apollo:{defaultClient:Object.create(null)}}}(null));
